@@ -1,0 +1,22 @@
+localhost/127.0.0.1	2026-04-16 17:39:53	/hello.txt	200 OK
+localhost/127.0.0.1	2026-04-16 17:39:53	/pic.png	200 OK
+localhost/127.0.0.1	2026-04-16 17:39:53	/index.html	200 OK
+localhost/127.0.0.1	2026-04-16 17:39:53	/index.html	304 Not Modified
+localhost/127.0.0.1	2026-04-16 17:39:53	/index.html	400 Bad Request
+localhost/127.0.0.1	2026-04-16 17:39:53	/../secret.txt	403 Forbidden
+localhost/127.0.0.1	2026-04-16 17:39:53	/not_exist.html	404 File Not Found
+localhost/127.0.0.1	2026-04-16 17:39:53	/index.html	200 OK
+localhost/127.0.0.1	2026-04-16 17:39:53	/hello.txt	200 OK
+localhost/127.0.0.1	2026-04-16 18:00:11	/hello.txt	200 OK
+localhost/127.0.0.1	2026-04-16 18:04:18	/pic.png	200 OK
+localhost/127.0.0.1	2026-04-16 18:04:30	/index.html	200 OK
+localhost/127.0.0.1	2026-04-16 18:04:43	/index.html	400 Bad Request
+localhost/127.0.0.1	2026-04-16 18:06:01	/secret.txt	404 File Not Found
+localhost/127.0.0.1	2026-04-16 18:13:10	/not_exist.html	404 File Not Found
+localhost/127.0.0.1	2026-04-16 18:14:57	/index.html	200 OK
+localhost/127.0.0.1	2026-04-16 18:18:03	/index.html	304 Not Modified
+localhost/127.0.0.1	2026-04-16 18:18:35	/index.html	200 OK
+localhost/127.0.0.1	2026-04-16 18:18:47	/index.html	200 OK
+localhost/127.0.0.1	2026-04-16 20:36:09	/../secret.txt	403 Forbidden
+localhost/127.0.0.1	2026-04-16 20:36:56	/index.html	200 OK
+localhost/127.0.0.1	2026-04-16 20:38:17	/pic.png	200 OK
